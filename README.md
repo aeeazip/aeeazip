@@ -4,7 +4,7 @@
   
 ### ✨ **My**
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory)](https://jeongminyooa.tistory.com/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aeea0520@gmail.com)](mailto:aeea0520@gmail.com)&nbsp;
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faeeazip%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faeeazip%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total&edge_flat=true)
   
 ### :computer: **Tech Stack** 
 **Code Level**
@@ -24,4 +24,4 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Apache Badge](https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
+![Apache Badge](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
