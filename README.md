@@ -24,4 +24,4 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Apache Badge](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)
+![Apache Badge](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white)
