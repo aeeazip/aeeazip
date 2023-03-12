@@ -8,13 +8,17 @@
   
 ### :computer: **Tech Stack** 
 **Code Level**
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/aeeazip/Algorithm)&nbsp;![JS Badge](https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;[![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/aeeazip/DataStructure)&nbsp;
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/aeeazip/Algorithm)&nbsp;
+![JS Badge](https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;
+[![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/aeeazip/DataStructure)&nbsp;
 
   
 **DevOps**
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)&nbsp;
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)&nbsp;
-![AWS Badge](https://img.shields.io/badge/Amazon&nbsp;AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)&nbsp; 
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)&nbsp;
 ![AWS S3 Badge](https://img.shields.io/badge/Amazon&nbsp;S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)&nbsp; 
 ![AWS RDS Badge](https://img.shields.io/badge/Amazon&nbsp;RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)&nbsp; 
 ![AWS EC2 Badge](https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)&nbsp; 
