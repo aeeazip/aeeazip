@@ -23,11 +23,10 @@
  
 ### :computer: **Tools** 
 ![Github Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)&nbsp; 
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)&nbsp; 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/Discord-000000?style=flat&logo=Discord&logoColor=white)&nbsp;
   
 ![Android Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android&logoColor=white)&nbsp;
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white)&nbsp;
