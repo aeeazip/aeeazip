@@ -15,11 +15,10 @@
 
 ![SpringBoot Badge](https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)&nbsp;
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![Node Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp;
 ![AWS EC2 Badge](https://img.shields.io/badge/Amazon&nbsp;EC2-FF9900?style=flat&logo=Amazon-EC2&logoColor=white)&nbsp; 
 ![AWS S3 Badge](https://img.shields.io/badge/Amazon&nbsp;S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)&nbsp; 
 ![AWS RDS Badge](https://img.shields.io/badge/Amazon&nbsp;RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white)&nbsp; 
-  
+<!--![Node Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp;-->  
  
 ### :computer: **Tools** 
 ![Github Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)&nbsp; 
