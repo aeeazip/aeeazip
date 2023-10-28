@@ -5,6 +5,8 @@
 ### ✨ **My**
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory)](https://aeeazip.tistory.com/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:aeea0520@gmail.com)](mailto:aeea0520@gmail.com)&nbsp;[![Portfolio Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion)](https://chaewon0809.notion.site/6ae718e9fbef4385b8cbbd9a53ad4d76?pvs=4)&nbsp;
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faeeazip%2Fhit-counter&count_bg=%23CBC5C5&title_bg=%23000000&icon=github.svg&icon_color=%23CBC5C5&title=today+%2F+total)
+
+<br>
   
 ### :computer: **Tech Stack** 
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/aeeazip/Algorithm)&nbsp;
@@ -19,6 +21,8 @@
 ![AWS S3 Badge](https://img.shields.io/badge/Amazon&nbsp;S3-569A31?style=flat&logo=Amazon-S3&logoColor=white)&nbsp; 
 ![AWS RDS Badge](https://img.shields.io/badge/Amazon&nbsp;RDS-527FFF?style=flat&logo=Amazon-RDS&logoColor=white)&nbsp; 
 <!--![Node Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp;-->  
+
+ <br>
  
 ### :computer: **Tools** 
 ![Github Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)&nbsp; 
